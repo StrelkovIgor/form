@@ -1,0 +1,12 @@
+.form-group{
+    padding: 20px 0;
+}
+.form-group input[type=submit]{
+    margin-top: 20px;
+}
+.bid{
+    border: 1px solid #aaa;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background: paleturquoise;
+}
